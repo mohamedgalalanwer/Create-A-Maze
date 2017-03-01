@@ -24,3 +24,7 @@ Viewing MY App On a Device (Android or IOS)
 2. Successful build of the app (apk file for Android and XCode project for iOS)
 3. All the player settings are correctly modified in order to build to device
 
+# animation
+ I worked a total of the animation (KEY,COIN). To make the game better
+Possible use by animator 
+open the animator  And arrange them as you like
