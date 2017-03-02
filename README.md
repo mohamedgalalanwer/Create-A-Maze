@@ -28,3 +28,37 @@ Viewing MY App On a Device (Android or IOS)
  I worked a total of the animation (KEY,COIN). To make the game better
 Possible use by animator 
 open the animator  And arrange them as you like
+# Motivation
+
+ create my  first fully interactive multisensory VR experience!
+
+# Installation
+use the script and put in unity drag and drop
+
+Google VR SDK for Unity
+===========================================================
+Enables Daydream and Cardboard app development in Unity.
+
+Copyright (c) 2016 Google Inc. All rights reserved.
+
+For updates, known issues, and upgrade instructions, see: https://developers.google.com/vr/unity/release-notes
+
+For first time users, see the Get Started Guides for [ Android Cardboard](https://developers.google.com/vr/unity/get-started),  [  Android Daydream](https://developers.google.com/vr/unity/get-started), and  [ iOS Cardboard](https://developers.google.com/vr/unity/get-started-ios).
+
+# API Script FOR UNITY
+
+[ API SCRIPT](https://docs.unity3d.com/ScriptReference/index.html)
+
+# Contributors
+[Mohamed Galal](abogalalmedo@gmail.com) gmail
+
+[Mohamed Galal Anwer](https://www.linkedin.com/in/mohamedgalalanwer/) linkedin
+
+
+
+
+
+
+ 
+   if u'd see 
+  https://www.youtube.com/watch?v=KKidJKfgoo0
