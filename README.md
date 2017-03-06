@@ -34,7 +34,7 @@ open the animator  And arrange them as you like
 
 # Installation
 use the script and put in unity drag and drop
-``
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -59,7 +59,7 @@ public class Mobile : MonoBehaviour {
 	}
 }
 
-``
+```
 Google VR SDK for Unity
 ===========================================================
 Enables Daydream and Cardboard app development in Unity.
